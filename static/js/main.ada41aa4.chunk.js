@@ -162,7 +162,7 @@
                     role: "button",
                     "aria-label": "Learn more about me",
                   },
-                  "More about me"
+                  "Mais sobre mim"
                 )
               )
             )
@@ -400,9 +400,9 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "University of Cambridge EAD (2019-2020)"
+                      "Universidade de Cambridge EAD (2019-2020)"
                     ),
-                    l.a.createElement("p", null, "English Language.")
+                    l.a.createElement("p", null, "Língua Inglesa.")
                   ),
                   l.a.createElement(
                     x.VerticalTimelineElement,
@@ -529,7 +529,11 @@
                       { className: "vertical-timeline-element-title" },
                       "Caelum - Escola de Tecnologia, São Paulo-SP (2013-)"
                     ),
-                    l.a.createElement("p", null, "Java for web Development.")
+                    l.a.createElement(
+                      "p",
+                      null,
+                      "Java para desenvolvimento WEB."
+                    )
                   ),
                   l.a.createElement(
                     x.VerticalTimelineElement,
@@ -554,7 +558,7 @@
                       { className: "vertical-timeline-element-title" },
                       "Caelum - Escola de Tecnologia, São Paulo-SP (2011-)"
                     ),
-                    l.a.createElement("p", null, "Java and Object Oriented.")
+                    l.a.createElement("p", null, "Java Orientado a Objeto.")
                   ),
                   l.a.createElement(
                     x.VerticalTimelineElement,
@@ -640,7 +644,7 @@
             l.a.Fragment,
             null,
             l.a.createElement(
-              "h2",
+              "h3",
               { className: "display-4 pb-3 text-center" },
               "Entrar em contato"
             ),
@@ -681,7 +685,7 @@
                 "Danilo Nelder"
               ),
               " ",
-              "using ",
+              "usando ",
               l.a.createElement("i", { className: "fab fa-react" })
             )
           );
@@ -811,23 +815,13 @@
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#experience" },
-                    "Career"
+                    "Carreira"
                   ),
                   l.a.createElement(
                     K.a.Link,
                     {
                       className: "nav-link lead",
-                      href: "https://docs.google.com/document/d/1vBEH6xzIcDwdo1BPjl2NSWG5Fg9sVCbxo1MYtLTD6kY/edit",
-                      target: "_blank",
-                      rel: "noreferrer noopener",
-                    },
-                    "Resume"
-                  ),
-                  l.a.createElement(
-                    K.a.Link,
-                    {
-                      className: "nav-link lead",
-                      href: "https://docs.google.com/document/d/1pom_Q7UKB-MRUwrJlf2aRbjKgHk9P54weOXwB1B_9no/edit",
+                      href: "https://drive.google.com/file/d/1Kq8JimdRRbtYqCeQMx289kZflc0fkBkQ/view",
                       target: "_blank",
                       rel: "noreferrer noopener",
                     },
@@ -836,12 +830,12 @@
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#aboutme" },
-                    "About"
+                    "Sobre"
                   ),
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#skills" },
-                    "Skills"
+                    "Habilidades"
                   )
                 )
               )
@@ -946,7 +940,7 @@
                     {
                       tabClassName: "skills-tab  ",
                       eventKey: "hard-skills",
-                      title: "Technical Skills",
+                      title: "Habilidades Técnicas",
                     },
                     l.a.createElement(
                       B.a,
@@ -959,7 +953,7 @@
                     {
                       tabClassName: "skills-tab ",
                       eventKey: "soft-skills",
-                      title: "Soft Skills",
+                      title: "Habilidades Interpessoais",
                     },
                     l.a.createElement(
                       B.a,
