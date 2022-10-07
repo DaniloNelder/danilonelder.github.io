@@ -278,7 +278,7 @@
                         "a",
                         {
                           className: "btn btn-outline-dark btn-lg",
-                          href: "https://docs.google.com/document/d/1vBEH6xzIcDwdo1BPjl2NSWG5Fg9sVCbxo1MYtLTD6kY/edit",
+                          href: "https://drive.google.com/file/d/1Kq8JimdRRbtYqCeQMx289kZflc0fkBkQ/view",
                           target: "_blank",
                           rel: "noreferrer noopener",
                           role: "button",
@@ -644,8 +644,8 @@
             l.a.Fragment,
             null,
             l.a.createElement(
-              "h3",
-              { className: "display-4 pb-3 text-center" },
+              "h2",
+              { className: "display-5 pb-1 text-center" },
               "Entrar em contato"
             ),
             l.a.createElement(
@@ -680,7 +680,7 @@
                   className: "badge badge-dark",
                   rel: "noopener",
                   href: "https://github.com/danilonelder",
-                  "aria-label": "My GitHub",
+                  "aria-label": "Meu GitHub",
                 },
                 "Danilo Nelder"
               ),
@@ -926,7 +926,7 @@
                 l.a.createElement(
                   "h2",
                   { ref: t, className: "display-4 pb-5 text-center" },
-                  "Skills"
+                  "Habilidades"
                 ),
                 l.a.createElement(
                   U.a,
