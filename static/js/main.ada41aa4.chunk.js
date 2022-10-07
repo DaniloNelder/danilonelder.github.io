@@ -671,7 +671,7 @@
               " por",
               " ",
               l.a.createElement(
-                "",
+                "a",
                 {
                   className: "badge badge-dark",
                   rel: "noopener",
@@ -817,6 +817,16 @@
                     K.a.Link,
                     {
                       className: "nav-link lead",
+                      href: "https://docs.google.com/document/d/1vBEH6xzIcDwdo1BPjl2NSWG5Fg9sVCbxo1MYtLTD6kY/edit",
+                      target: "_blank",
+                      rel: "noreferrer noopener",
+                    },
+                    "Resume"
+                  ),
+                  l.a.createElement(
+                    K.a.Link,
+                    {
+                      className: "nav-link lead",
                       href: "https://docs.google.com/document/d/1pom_Q7UKB-MRUwrJlf2aRbjKgHk9P54weOXwB1B_9no/edit",
                       target: "_blank",
                       rel: "noreferrer noopener",
@@ -826,12 +836,12 @@
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#aboutme" },
-                    "Sobre"
+                    "About"
                   ),
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#skills" },
-                    "Habilidades"
+                    "Skills"
                   )
                 )
               )
