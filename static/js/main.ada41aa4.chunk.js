@@ -20,7 +20,8 @@
           FirstName: "Danilo",
           MiddleName: "",
           LastName: "Nelder",
-          devDesc: " Engineer \u269b Programmer \u269b Analyst \u269b Gamer  ",
+          devDesc:
+            " Engenheiro \u269b Programador \u269b Analista \u269b Gamer  ",
           backgroundType: "gradient",
           plainBackgroundMode: "daylight",
           gradientColors:
@@ -52,11 +53,11 @@
               url: "https://www.hackerrank.com/danilo_nelder",
             },
           ],
-          aboutHeading: "About Me",
+          aboutHeading: "Sobre mim",
           profilePictureLink: "",
           aboutDescription:
-            "My name is Danilo Nelder, I have a degree in Analysis and Systems Development at the higher education institution UNIMAR - University of Marília. I have been working in the technology field since I was 15 years old. I decided to specialize in Back-End at 17. Since then, I have taken several courses on the subject to improve my knowledge and skills. I worked on several projects with technology, focusing on the areas of Business Management, Insurance, Retail and Legislatures. With participation or responsible for the back of the projects.",
-          projectHeading: "Recent Projects",
+            "Meu nome é Danilo Nelder, sou formado em Análise e Desenvolvimento de Sistemas pela instituição de ensino superior UNIMAR - Universidade de Marília. Trabalho na área de tecnologia desde os 15 anos. Decidi me especializar em Back-End aos 17 anos. Desde então, fiz vários cursos sobre o assunto para aprimorar meus conhecimentos e habilidades. Trabalhei em diversos projetos com tecnologia, com foco nas áreas de Gestão Empresarial, Seguros, Varejo e Legislativo. Com participação ou responsável pela volta dos projetos.",
+          projectHeading: "Projetos Recentes",
           gitHubLink: "https://api.github.com/users/",
           gitHubQuery: "/repos?sort=updated&direction=desc",
           gitHubUsername: "danilonelder",
@@ -76,18 +77,18 @@
             { name: "Microsoft SQL Server", value: 70 },
           ],
           softSkills: [
-            { name: "Goal-Oriented", value: 80 },
-            { name: "Collaboration", value: 90 },
-            { name: "Positivity", value: 75 },
-            { name: "Adaptability", value: 85 },
-            { name: "Problem Solving", value: 75 },
-            { name: "Empathy", value: 90 },
-            { name: "Organization", value: 70 },
-            { name: "Creativity", value: 90 },
+            { name: "Orientação a Objeto", value: 80 },
+            { name: "Colaboração", value: 90 },
+            { name: "Positividade", value: 75 },
+            { name: "Adaptação", value: 85 },
+            { name: "Resolução de Problemas", value: 75 },
+            { name: "Empatia", value: 90 },
+            { name: "Organização", value: 70 },
+            { name: "Creatividade", value: 90 },
           ],
           showGetInTouch: !0,
           footerMessage:
-            "Currently, I am working full-time in Software Engineering or Machine Learning! Feel free to send me an email at",
+            "Atualmente, estou trabalhando em tempo integral em Engenharia de Software ou Machine Learning! Sinta-se à vontade para me enviar um e-mail para",
           emailAddress: "danilo_nelder@hotmail.com",
         },
         m = t(166),
@@ -281,9 +282,9 @@
                           target: "_blank",
                           rel: "noreferrer noopener",
                           role: "button",
-                          "aria-label": "Resume/CV",
+                          "aria-label": "Currículo",
                         },
-                        "Resume"
+                        "Currículo"
                       )
                     )
                 )
@@ -331,7 +332,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Java Developer (2021-)"
+                      "Desenvolvedor Java (2021-)"
                     ),
                     l.a.createElement(
                       "h4",
@@ -341,7 +342,7 @@
                     l.a.createElement(
                       "p",
                       null,
-                      "Developer of new functionalities with a focus on the implementation of Micro services and system updates in the Bradesco Insurance sector."
+                      "Desenvolvedor de novas funcionalidades com foco na implantação de Micro serviços e atualizações de sistemas no setor de Seguros Bradesco."
                     )
                   ),
                   l.a.createElement(
@@ -365,7 +366,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Java Developer (2020-2021)"
+                      "Desenvolvedor Java (2020-2021)"
                     ),
                     l.a.createElement(
                       "h4",
@@ -375,7 +376,7 @@
                     l.a.createElement(
                       "p",
                       null,
-                      "Development of projects in the transportation branch with collections, deliveries and freight."
+                      "Desenvolvimento de projetos no ramo de transportes com coletas, entregas e fretes."
                     )
                   ),
                   l.a.createElement(
@@ -424,7 +425,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Analyst and Developer SR (2019-2020)"
+                      "Analista e Desenvolvedor SR (2019-2020)"
                     ),
                     l.a.createElement(
                       "h4",
@@ -434,7 +435,7 @@
                     l.a.createElement(
                       "p",
                       null,
-                      "Analyze and develop, focusing on micro-service implementations and correction of the main system, Insurance and Brokerage branch."
+                      "Analisar e desenvolver, com foco em implementações de microsserviços e correção do sistema principal, ramo de Seguros e Corretagem."
                     )
                   ),
                   l.a.createElement(
@@ -458,17 +459,17 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Full Programmer (2018-2019)"
+                      "Programador (2018-2019)"
                     ),
                     l.a.createElement(
                       "h4",
                       { className: "vertical-timeline-element-subtitle" },
-                      "Onclick Systems, Marilia-SP"
+                      "Onclick Sistemas, Marilia-SP"
                     ),
                     l.a.createElement(
                       "p",
                       null,
-                      "Analyze and develop, focusing on implementations and corrections of the Commercial Management System and POS."
+                      "Analisar e desenvolver, com foco em implementações e correções do Sistema de Gestão Comercial e POS."
                     )
                   ),
                   l.a.createElement(
@@ -492,7 +493,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Programmer (2017-2018)"
+                      "Programador (2017-2018)"
                     ),
                     l.a.createElement(
                       "h4",
@@ -502,7 +503,7 @@
                     l.a.createElement(
                       "p",
                       null,
-                      "Developer of Commercial Management Systems, and adjacent controllers of the company."
+                      "Desenvolvedor de Sistemas de Gestão Comercial, e controladores adjacentes da empresa."
                     )
                   ),
                   l.a.createElement(
@@ -526,7 +527,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Caelum - School of Technology, São Paulo-SP (2013-)"
+                      "Caelum - Escola de Tecnologia, São Paulo-SP (2013-)"
                     ),
                     l.a.createElement("p", null, "Java for web Development.")
                   ),
@@ -551,7 +552,7 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Caelum - School of Technology, São Paulo-SP (2011-)"
+                      "Caelum - Escola de Tecnologia, São Paulo-SP (2011-)"
                     ),
                     l.a.createElement("p", null, "Java and Object Oriented.")
                   ),
@@ -576,17 +577,17 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "Programmer Analyst (2013-2016)"
+                      "Analista Programador (2013-2016)"
                     ),
                     l.a.createElement(
                       "h4",
                       { className: "vertical-timeline-element-subtitle" },
-                      "Webline Software, Marilia-SP"
+                      "Webline Sistemas, Marilia-SP"
                     ),
                     l.a.createElement(
                       "p",
                       null,
-                      "Development and maintenance of projects for Municipal Chambers and City Halls, in addition to other public bodies."
+                      "Desenvolvimento e manutenção de projetos para Câmaras Municipais e Prefeituras, além de outros órgãos públicos."
                     )
                   ),
                   l.a.createElement(
@@ -610,12 +611,12 @@
                     l.a.createElement(
                       "h3",
                       { className: "vertical-timeline-element-title" },
-                      "UNIMAR - University of Marilia, Marilia-SP (2011-2013)"
+                      "UNIMAR - Universidade de Marilia, Marilia-SP (2011-2013)"
                     ),
                     l.a.createElement(
                       "p",
                       null,
-                      "Technology in Analysis and Systems Development, Information Technology."
+                      "Tecnologia em Análise e Desenvolvimento de Sistemas, Tecnologia da Informação."
                     )
                   ),
                   l.a.createElement(x.VerticalTimelineElement, {
@@ -641,7 +642,7 @@
             l.a.createElement(
               "h2",
               { className: "display-4 pb-3 text-center" },
-              "Get In Touch"
+              "Entrar em contato"
             ),
             l.a.createElement(
               "p",
@@ -665,12 +666,12 @@
               null,
               e && l.a.createElement(C, null),
               l.a.createElement("i", { className: "fas fa-code" }),
-              " with ",
+              " com ",
               l.a.createElement("i", { className: "fas fa-heart" }),
-              " by",
+              " por",
               " ",
               l.a.createElement(
-                "a",
+                "",
                 {
                   className: "badge badge-dark",
                   rel: "noopener",
@@ -816,31 +817,21 @@
                     K.a.Link,
                     {
                       className: "nav-link lead",
-                      href: "https://docs.google.com/document/d/1vBEH6xzIcDwdo1BPjl2NSWG5Fg9sVCbxo1MYtLTD6kY/edit",
-                      target: "_blank",
-                      rel: "noreferrer noopener",
-                    },
-                    "Resume"
-                  ),
-                  l.a.createElement(
-                    K.a.Link,
-                    {
-                      className: "nav-link lead",
                       href: "https://docs.google.com/document/d/1pom_Q7UKB-MRUwrJlf2aRbjKgHk9P54weOXwB1B_9no/edit",
                       target: "_blank",
                       rel: "noreferrer noopener",
                     },
-                    "Resume 🇧🇷"
+                    "Currículo"
                   ),
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#aboutme" },
-                    "About"
+                    "Sobre"
                   ),
                   l.a.createElement(
                     K.a.Link,
                     { className: "nav-link lead", href: "/#skills" },
-                    "Skills"
+                    "Habilidades"
                   )
                 )
               )
@@ -1188,7 +1179,7 @@
           });
     },
     64: function (e, a, t) {
-      e.exports = t.p + "static/media/resume.cb044918.pdf";
+      e.exports = t.p + "static/media/resume.pdf";
     },
   },
   [[178, 1, 2]],
