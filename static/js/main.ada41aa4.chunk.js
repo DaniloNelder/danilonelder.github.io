@@ -84,7 +84,7 @@
             { name: "Resolução de Problemas", value: 75 },
             { name: "Empatia", value: 90 },
             { name: "Organização", value: 70 },
-            { name: "Creatividade", value: 90 },
+            { name: "Criatividade", value: 90 },
           ],
           showGetInTouch: !0,
           footerMessage:
